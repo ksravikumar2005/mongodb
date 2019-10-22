@@ -55,4 +55,6 @@
     
     9. To conntect to this service externally, use a mongo client and configure it to connect to your hostname:27017
     
+    10. Visit https://www.katacoda.com/ksravikumar2005/scenarios/mongodb to see this in action without any setup, right from your browser in less than 5 minutes! 
+    
     10. Enjoy!
